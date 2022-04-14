@@ -1,0 +1,3 @@
+daojango	AutoLogin#!!!
+Web scrapping stackoverflow auto login
+daojango.dev@gmail.com	PyDev@br!123
